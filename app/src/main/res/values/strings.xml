@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EjercicioDia16</string>
+    <string name="animal1">Caballo</string>
+    <string name="animal2">Colibrí</string>
+    <string name="animal3">Gato</string>
+    <string name="animal4">Tigre</string>
+    <string name="animal5">Zorro</string>
+    <string name="txt1">El caballo es un mamífero perisodáctilo domesticado de la familia de los équidos.</string>
+    <string name="txt2">Ave muy pequeña, de plumaje brillante y de colores vivos, el pico muy largo y fino</string>
+    <string name="txt3">Mamífero felino de tamaño generalmente pequeño, cuerpo flexible, cabeza redonda</string>
+    <string name="txt4">Mamífero felino de unos 250 a 400 cm de longitud (cola incluida), de pelaje amarillo leonado</string>
+    <string name="txt5">Mamífero cánido de tamaño mediano, cuerpo esbelto, patas robustas y algo cortas</string>
+    <string name="textViewInicio">BIENVENIDOS</string>
+
+
+</resources>

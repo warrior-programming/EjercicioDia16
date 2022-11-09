@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExerciseDay16</string>
+    <string name="animal1">Horse</string>
+    <string name="animal2">Hummingbird</string>
+    <string name="animal3">Cat</string>
+    <string name="animal4">Tiger</string>
+    <string name="animal5">Fox</string>
+    <string name="txt1">The horse is a domesticated perissodactyl mammal of the Equidae family.</string>
+    <string name="txt2">Very small bird, brightly plumaged and brightly coloured, very long and fine bill.</string>
+    <string name="txt3">Feline mammal of generally small size, flexible body, round head.</string>
+    <string name="txt4">A feline mammal about 250 to 400 cm long (including tail), with a tawny-yellow coat.</string>
+    <string name="txt5">Medium-sized canid mammal, slender body, robust and somewhat short legs.</string>
+    <string name="textViewInicio">WELCOME TO THE JUNGLE!</string>
+</resources>
