@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(getBaseContext(),c.nombre,Toast.LENGTH_SHORT).show();
         });
     }
-//
+
     private List<Objeto> GetData() {
         lista = new ArrayList<>();
         lista.add(new Objeto(1,R.drawable.caballo,R.string.animal1,R.string.txt1));
